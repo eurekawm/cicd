@@ -17,7 +17,7 @@ pipeline{
         // 测试
         stage('test'){
             steps {
-                echo "test"
+                echo "te11st"
                 }
         }
         stage('package'){
