@@ -28,7 +28,7 @@ pipeline{
            // 部署
         stage('deploy'){
              steps {
-                echo "deploy111"
+                echo "deploy11122"
                 }
             }
     }
