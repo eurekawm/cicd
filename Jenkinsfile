@@ -22,7 +22,7 @@ pipeline{
         }
         stage('package'){
              steps {
-                echo "package"
+                echo "packa1ge"
                 }
             }
            // 部署
